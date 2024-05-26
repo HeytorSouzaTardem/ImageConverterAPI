@@ -40,7 +40,7 @@ namespace ImageConverter.Controllers
                             imageInput.PositionX + textSize.Width > image.Width ||
                             imageInput.PositionY + textSize.Height > image.Height)
                         {
-                            return BadRequest($"A posição da marca d'água está fora dos limites da imagem. A imagem possui uma largura de {image.Width} e uma altura de {image.Height}. " +
+                            return BadRequest($"A posição da marca d'água está fora dos limites da imagem. A imagem possui uma largura de {image.Width - textSize.Width} e uma altura de {image.Height - textSize.Height}. " +
                                 "Certifique-se de que a posição e o tamanho da marca d'água se encaixem dentro desses limites");
                         }
 

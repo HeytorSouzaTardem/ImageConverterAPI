@@ -34,3 +34,4 @@ C:\Users\heyto\OneDrive\Área de Trabalho\GitHub\teste\ImageConverter\bin\Debug\
 C:\Users\heyto\OneDrive\Área de Trabalho\GitHub\teste\ImageConverter\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\heyto\OneDrive\Área de Trabalho\GitHub\teste\ImageConverter\bin\Debug\net6.0\System.Drawing.Common.dll
 C:\Users\heyto\OneDrive\Área de Trabalho\GitHub\teste\ImageConverter\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\heyto\OneDrive\Área de Trabalho\GitHub\teste\ImageConverter\obj\Debug\net6.0\ImageConverter.sourcelink.json

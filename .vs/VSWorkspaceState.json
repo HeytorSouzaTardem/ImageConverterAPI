@@ -2,7 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\Controllers",
-    "\\Models"
+    "\\Models",
+    "\\Services"
   ],
   "SelectedNode": "\\Controllers\\ImageController.cs",
   "PreviewInSolutionExplorer": false
